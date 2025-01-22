@@ -46,3 +46,5 @@ intersections, face_normals, depth = RT.trace(rays_o, rays_d) # [N, 3], [N, 3], 
 ### Acknowledgement
 
 * Credits to [Thomas Müller](https://tom94.net/)'s amazing [tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn) and [instant-ngp](https://github.com/NVlabs/instant-ngp)!
+
+* 
